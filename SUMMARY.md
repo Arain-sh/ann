@@ -10,4 +10,5 @@
 * [四、现有工作基础和条件](Chapter4/README.md)
 * [五、成果形式和考核指标](Chapter5/README.md)
 * [六、预期效果和风险分析](Chapter6/README.md)
+* [七、项目责任人和主要成员简历](Chapter7/README.md)
 
